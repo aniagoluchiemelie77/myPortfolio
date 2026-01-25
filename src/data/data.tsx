@@ -9,7 +9,7 @@ import {
 } from '@heroicons/react/24/outline';
 
 import GithubIcon from '../components/Icon/GithubIcon';
-import InstagramIcon from '../components/Icon/InstagramIcon';
+//import InstagramIcon from '../components/Icon/InstagramIcon';
 import LinkedInIcon from '../components/Icon/LinkedInIcon';
 import StackOverflowIcon from '../components/Icon/StackOverflowIcon';
 import TwitterIcon from '../components/Icon/TwitterIcon';
@@ -17,14 +17,14 @@ import heroImage from '../images/header-background.webp';
 import porfolioImage1 from '../images/portfolio/portfolio-1a.jpg';
 import porfolioImage2 from '../images/portfolio/portfolio-2a.jpg';
 import porfolioImage3 from '../images/portfolio/portfolio-3a.jpg';
-import porfolioImage4 from '../images/portfolio/portfolio-4a.jpg';
-import porfolioImage5 from '../images/portfolio/portfolio-5.jpg';
+//import porfolioImage4 from '../images/portfolio/portfolio-4a.jpg';
+//import porfolioImage5 from '../images/portfolio/portfolio-5.jpg';
 import porfolioImage6 from '../images/portfolio/portfolio-6a.jpg';
 import porfolioImage7 from '../images/portfolio/portfolio-7a.jpg';
 import porfolioImage8 from '../images/portfolio/portfolio-8a.jpg';
 import porfolioImage9 from '../images/portfolio/portfolio-9a.jpg';
 import porfolioImage10 from '../images/portfolio/portfolio-10a.jpg';
-import porfolioImage11 from '../images/portfolio/portfolio-11.jpg';
+//import porfolioImage11 from '../images/portfolio/portfolio-11.jpg';
 import profilepic from '../images/profilepic1.jpg';
 import testimonialImage from '../images/testimonial.webp';
 import {
