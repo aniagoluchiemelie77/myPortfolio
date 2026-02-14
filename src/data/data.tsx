@@ -206,7 +206,7 @@ export const portfolioItems: PortfolioItem[] = [
     title: 'Sample PHP Blog Website',
     description:
       'A dynamic blog website built with PHP and MySQL, allowing users to create, edit, and delete blog posts.',
-    url: 'https://github.com/aniagoluchiemelie77/PHP-Blog.git',
+    url: 'https://blog.uniquetechcontentwriter.com/',
     image: porfolioImage6,
   },
   {
